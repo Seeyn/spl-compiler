@@ -1,0 +1,9 @@
+int nest(int i){
+    return i;
+}
+int main(){
+    int a = 0;
+    float b;
+    a = nest(nest(a));
+    b =  nest(nest(a));
+}

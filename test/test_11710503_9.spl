@@ -1,0 +1,11 @@
+struct foo{
+    int c,b;
+};
+
+int main(){
+    int a[2][3];
+    struct foo d;
+    a[0][0] = 1;
+    d.c = a[0][0];
+    d.b = 2.0;
+}

@@ -1,0 +1,2 @@
+Error type 15 at Line 6: redefine struct: foo
+Error type 12 at Line 13: indexing by non-integer

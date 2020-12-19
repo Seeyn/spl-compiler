@@ -1,0 +1,13 @@
+struct foo{
+    int a;
+    float b,c,d;
+};
+
+int main(){
+    int e[10];
+    float f = 1.0;
+    struct foo g;
+    g.b = f;
+    e[0] = f;
+    g.b[1] = f; 
+}

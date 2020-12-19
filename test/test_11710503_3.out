@@ -1,0 +1,3 @@
+Error type 2 at Line 5: undefined function: nononono
+Error type 5 at Line 9: unmatching type on both sides of assignment
+Error type 7 at Line 9: binary operation on non-number variables

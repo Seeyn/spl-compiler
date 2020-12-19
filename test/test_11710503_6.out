@@ -1,0 +1,2 @@
+Error type 11 at Line 3: invoking non-function variable: a
+Error type 10 at Line 4: indexing on non-array variable
